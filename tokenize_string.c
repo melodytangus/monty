@@ -1,8 +1,3 @@
-/*
- * File: tokenize_string.c
- * Auth: Bennett Dixon
- */
-
 #include <stdlib.h>
 
 char **strtow(char *str, char *delims);

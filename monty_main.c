@@ -1,9 +1,3 @@
-/*
- * File: monty_main.c
- * Auth: Bennett Dixon
- *       Brennan D Baraban
- */
-
 #include "monty.h"
 #include <sys/types.h>
 #include <sys/stat.h>
